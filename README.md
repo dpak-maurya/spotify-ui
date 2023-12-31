@@ -1,8 +1,14 @@
 # Spotify-Inspired Streaming Service UI
+<img width="1624" alt="Screenshot 2023-12-31 at 8 43 42 PM" src="https://github.com/dpak-maurya/spotify-ui/assets/41278103/e73d43de-dde3-49ae-9cd4-88ed9b512442">
+
+
 
 ## Project Overview
 
 This project showcases a sophisticated and fully responsive user interface modeled after the acclaimed Spotify platform. Designed in Figma and translated into a React-based front-end framework, this repository highlights a design-centric approach to front-end development, with a focus on aesthetic fidelity and responsive design.
+
+## Live URL 
+https://transcendent-gelato-421340.netlify.app/
 
 ## Features
 
